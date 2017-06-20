@@ -1,0 +1,6 @@
+F:\Aplikacje predicta\Aplikacja1\Aplikacja1\bin\Debug\Aplikacja1.exe.config
+F:\Aplikacje predicta\Aplikacja1\Aplikacja1\bin\Debug\Aplikacja1.exe
+F:\Aplikacje predicta\Aplikacja1\Aplikacja1\bin\Debug\Aplikacja1.pdb
+F:\Aplikacje predicta\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.csprojResolveAssemblyReference.cache
+F:\Aplikacje predicta\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.exe
+F:\Aplikacje predicta\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.pdb
